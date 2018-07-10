@@ -12,8 +12,9 @@ def assign_variable(value)
 
   end
 
-def argue
-  
+def argue(phrase)
+  return phrase
+
 
 end
 

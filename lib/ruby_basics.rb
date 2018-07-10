@@ -7,7 +7,7 @@ end
 
 def assign_variable(value)
   value = assign_variable
-  return value
+  return assign_variable
 
 
 

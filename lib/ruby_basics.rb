@@ -6,12 +6,11 @@ return div
 end
 
 def assign_variable(value)
-  value = assign_variable
-  return assign_variable
+  name = value
+  return name
 
 
-
-end
+  end
 
 def argue
 
